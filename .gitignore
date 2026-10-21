@@ -1,0 +1,15 @@
+# Byte-code
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Saved chats and Clera's memory (they are personal!)
+data/
+persona.md
+
+# Editor folders
+.vscode/
+.idea/
